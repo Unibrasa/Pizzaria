@@ -23,5 +23,15 @@ namespace UniBrasa_Pizzaria.View.Pedido
             F_Pagamento Forma_Pagamento = new F_Pagamento();
             Forma_Pagamento.ShowDialog();
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+            /*
+            F_Pagamento Pag = new F_Pagamento();
+            Pag.ShowDialog();
+           
+            richTextBox1.AppendText(Pag.Valor);
+            */
+        }
     }
 }

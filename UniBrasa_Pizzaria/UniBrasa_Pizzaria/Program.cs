@@ -35,6 +35,7 @@ namespace UniBrasa_Pizzaria
             Application.Run(new F_Pagamento());
             */
 
+            
             //Form Pedido - Felipe (Vai inicializar o programa com esse form)
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

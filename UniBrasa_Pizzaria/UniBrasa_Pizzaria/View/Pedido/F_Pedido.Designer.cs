@@ -51,6 +51,7 @@
             this.richTextBox1.Size = new System.Drawing.Size(414, 133);
             this.richTextBox1.TabIndex = 10;
             this.richTextBox1.Text = "";
+            this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
             // btnRefazerPedido
             // 
@@ -97,7 +98,7 @@
             this.label1.TabIndex = 6;
             this.label1.Text = "CONFIRA OS DETALHES DO SEU PEDIDO:";
             // 
-            // Pedido
+            // F_Pedido
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -108,7 +109,7 @@
             this.Controls.Add(this.btnFinalizarPedido);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Pedido";
+            this.Name = "F_Pedido";
             this.Text = "Pedido";
             this.ResumeLayout(false);
             this.PerformLayout();
