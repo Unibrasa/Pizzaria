@@ -1,0 +1,11 @@
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\bin\Debug\UniBrasa_Pizzaria.exe.config
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\bin\Debug\UniBrasa_Pizzaria.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\bin\Debug\UniBrasa_Pizzaria.pdb
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.csprojAssemblyReference.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.Properties.Resources.resources
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.View.Pedido.F_Pagamento.resources
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.View.Pedido.F_Pedido.resources
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.csproj.GenerateResource.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Prática Profissional em Pesquisa\Estrutura\UniBrasa_Pizzaria\UniBrasa_Pizzaria\obj\Debug\UniBrasa_Pizzaria.pdb
